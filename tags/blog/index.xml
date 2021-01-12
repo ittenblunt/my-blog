@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog on Itten&#39;s Blog</title>
-    <link>https://ittenblunt.github.com/my-blog/tags/blog/</link>
+    <link>https://ittenblunt.github.io/my-blog/tags/blog/</link>
     <description>Recent content in blog on Itten&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ittenblunt.github.com/my-blog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ittenblunt.github.io/my-blog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>创建了一个「狂人日记」</title>
-      <link>https://ittenblunt.github.com/my-blog/2020-04-16-bb/</link>
+      <link>https://ittenblunt.github.io/my-blog/2020-04-16-bb/</link>
       <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ittenblunt.github.com/my-blog/2020-04-16-bb/</guid>
+      <guid>https://ittenblunt.github.io/my-blog/2020-04-16-bb/</guid>
       <description>我最近想法特别多，以前都是能发的发发微博、朋友圈，不能发的在日记本里写写就算了。但搞来搞去散落一地，回头想找点儿啥都找不到，也不是我的风格。</description>
     </item>
     
     <item>
       <title>博客增加了 Valine 评论</title>
-      <link>https://ittenblunt.github.com/my-blog/change-valine-comments/</link>
+      <link>https://ittenblunt.github.io/my-blog/change-valine-comments/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ittenblunt.github.com/my-blog/change-valine-comments/</guid>
+      <guid>https://ittenblunt.github.io/my-blog/change-valine-comments/</guid>
       <description>扒了木木哥的主题在研究，本来想弄一下文章内直接撸照片文件夹，试了半天没成功，反倒是随手把 Valine 评论给偷了过来，好用。 好像木木哥那里没有具体教程，</description>
     </item>
     
     <item>
       <title>博客增加了文章内链样式</title>
-      <link>https://ittenblunt.github.com/my-blog/hugo-single-link/</link>
+      <link>https://ittenblunt.github.io/my-blog/hugo-single-link/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://ittenblunt.github.com/my-blog/hugo-single-link/</guid>
+      <guid>https://ittenblunt.github.io/my-blog/hugo-single-link/</guid>
       <description>还是扒了木木哥主题样式 又搞了一下文章内链接，测试一下样式： 弄这个东西其实和文章里插入音乐一样，各有优缺点，优点就是方便，缺点自然是迁移成本好</description>
     </item>
     
